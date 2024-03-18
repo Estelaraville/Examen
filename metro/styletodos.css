@@ -1,0 +1,71 @@
+body{
+    background-color: #bbb8b8;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-bottom: 5em;
+    min-height: 100vh;
+    position: relative;
+    
+}
+
+.minimbre{
+    background-color: blue;
+    bottom: 0%;
+    position: absolute;
+    font-size:large;
+    width: 100%;
+    padding: 1em 0;
+}
+
+.linearosa{
+    background-color: rgb(248, 124, 145);
+}
+
+.lineaazul{
+    background-color: rgb(0, 0, 194);
+    color: white;
+}
+
+.lineaverde1{
+    background-color: rgb(43, 136, 6);
+    color: bisque;
+}
+
+.lineaaqua{
+    background-color: rgb(6, 218, 255);
+}
+
+.lineaamarilla{
+    background-color: yellow;
+}
+
+.linearoja{
+    background-color: red;
+    color: white;
+}
+
+.lineaverde{
+    background-color: rgb(0, 255, 34);
+}
+
+.lineanara{
+    background-color: orange;
+}
+
+.lineacafe{
+    background-color: rgb(88, 32, 32);
+    color: white;
+}
+
+.lineamorada{
+    background-color: blueviolet;
+    color: white;
+}
+
+.lineapobre{
+    background-color: aquamarine;
+}
+
+.lineadorada{
+    background-color: rgb(182, 197, 42);
+}
