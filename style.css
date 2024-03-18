@@ -1,0 +1,18 @@
+body{
+    background-image: url(imagenes/logogears.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1366px;
+    background-position-x: center;
+}
+
+.container{
+    color: rgb(142, 169, 239);
+    font-size: 15px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.infoesc_nomb_ipn{
+    color: red;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
